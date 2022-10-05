@@ -1,4 +1,5 @@
 print("Hello Programmers!")
+<<<<<<< HEAD
 print("Reado for Hactober Fest")
-date = "08/10/2022"
-print(date)
+=======
+>>>>>>> parent of 2ae67f5 (hactoberfest)
