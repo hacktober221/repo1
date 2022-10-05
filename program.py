@@ -1,3 +1,3 @@
 print("Hello Programmers!")
 print("Reado for Hactober Fest")
-print
+print(date)
